@@ -3,7 +3,6 @@
 ## 概要
 タイタニックの生存者予測をLightGBMの分類で行いました。動作はM1のMacbookairでのみ行っております。
 
-# UIの構築
 ## 必要なライブラリをインストール
 ```
 pip install -r requirements.txt
